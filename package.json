@@ -1,0 +1,14 @@
+{
+  "name": "coroutines",
+  "description": "Co-routines for JavaScript",
+  "version": "0.0.1",
+  "author": "Matthew Sackman",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/five-eleven/coroutines.git"
+  },
+  "dependencies": {
+      "monadic": "0.0.5"
+  }
+}
