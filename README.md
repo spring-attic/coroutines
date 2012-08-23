@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/five-eleven/coroutines.png)](http://travis-ci.org/five-eleven/coroutines)
 # Coroutines
 
 ## Introduction
